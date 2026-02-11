@@ -26,6 +26,7 @@
 |------|------|------|------|
 | 01 | [标准差（Standard Deviation）](tutorials/01_standard_deviation.md) | ⭐ 基础 | ✅ 完成 |
 | 02 | [对数函数（Logarithm）](tutorials/02_logarithm.md) | ⭐ 基础 | ✅ 完成 |
+| 03 | [Softmax 函数（Softmax Function）](tutorials/03_softmax.md) | ⭐⭐ 进阶 | ✅ 完成 |
 
 ## 🚀 如何使用
 

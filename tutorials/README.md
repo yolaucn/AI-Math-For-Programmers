@@ -18,7 +18,12 @@
    - 掌握对数的运算性质
    - 应用：信息熵、交叉熵损失函数
 
-### 线性代数（Linear Algebra）
+3. **[Softmax 函数（Softmax Function）](03_softmax.md)** ⭐⭐ 进阶
+   - 理解概率分布的转换
+   - 掌握 Softmax 的计算方法
+   - 应用：多分类问题、注意力机制
+
+### 机器学习基础（Machine Learning Basics）
 
 即将推出...
 
